@@ -1,1 +1,3 @@
 # umumiy_tg_bot
+
+Bu proekt, shogirdlarim uchun tayyorlandi...
